@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulnisaslan&label=Profile%20views&color=0e75b6&style=flat" alt="gulnisaslan" /> </p>
 
 - 🌱 I’m currently learning **Spring,Java,Vue.js,.netcore,Devops**
+- I study Computer Programming in Anadolu University.
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
